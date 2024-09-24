@@ -16,8 +16,9 @@ Styles define font, colors, spacing, and responsive design elements to ensure th
 
 3)Content Organization:
 The body contains a main header (<h1>) and two sections:
-Stock Market Trends: Each stock index has a title (<h3>) and performance details in paragraphs.
-Weather Updates: Each city has similar subsections detailing current weather conditions.
+
+i)Stock Market Trends: Each stock index has a title (<h3>) and performance details in paragraphs.
+ii)Weather Updates: Each city has similar subsections detailing current weather conditions.
 
 4)Responsive Design:
 Media queries adjust padding and font sizes for smaller screens to enhance usability.
